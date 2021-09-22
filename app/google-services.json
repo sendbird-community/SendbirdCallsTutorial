@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722199998096",
+    "project_id": "callstestsendbird",
+    "storage_bucket": "callstestsendbird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722199998096:android:7e6fc3b30969a27a51f215",
+        "android_client_info": {
+          "package_name": "com.example.sendbirdcallstutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722199998096-p5im586ca9nhc3bj2kbabgjtqcjq0rfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB5Bqw2L0TDXh1eeDgAJ-GABK1UmTSEwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722199998096-p5im586ca9nhc3bj2kbabgjtqcjq0rfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
